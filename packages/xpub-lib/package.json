@@ -1,17 +1,17 @@
 {
-  "name": "@swan-bitcoin/xpub-lib",
+  "name": "xpub-lib-change",
   "version": "0.1.5",
   "description": "A JavaScript library for bitcoin address derivation from extended public keys, built upon bitcoinjs-lib and Unchained's bitcoin utilities. Supports P2PKH, P2SH, and P2WPKH (bech32) addresses as defined in BIP44, BIP49, and BIP84.",
-  "author": "Pablof7z <pablo@swan.com>",
+  "author": "zanepocock <zanepocock@gmail.com>",
   "license": "MIT",
   "main": "lib/index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/swan-bitcoin/xpub-tool.git"
+    "url": "git+https://github.com/satsflow/xpub-tool.git"
   },
-  "homepage": "https://github.com/swan-bitcoin/xpub-tool",
+  "homepage": "https://github.com/satsflow/xpub-tool",
   "bugs": {
-    "url": "https://github.com/swan-bitcoin/xpub-tool/issues"
+    "url": "https://github.com/satsflow/xpub-tool/issues"
   },
   "keywords": [
     "bitcoin",
