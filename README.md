@@ -1,3 +1,5 @@
+This has been forked for two reasons: 1) because work merged to the original repo that handles change addresses has never been deployed to npm; and 2) because we intend to make changes to the codebase that are not likely to be accepted upstream.
+
 # Swan's Address Derivation Tool
 
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
